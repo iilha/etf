@@ -1979,7 +1979,7 @@
       async function initialize() {
         console.log("[ETF] Initializing...");
 
-        const savedLang = localStorage.getItem("ubike-lang");
+        const savedLang = localStorage.getItem("etf-lang");
         if (savedLang) isZh = savedLang === "zh";
 
         // Bind filter buttons
@@ -2450,7 +2450,7 @@
       // ============================================================
       function toggleLang() {
         isZh = !isZh;
-        localStorage.setItem("ubike-lang", isZh ? "zh" : "en");
+        localStorage.setItem("etf-lang", isZh ? "zh" : "en");
         updateUI();
         renderList();
       }
