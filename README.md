@@ -1,3 +1,5 @@
+English | [繁體中文](README_zh.md)
+
 # Taiwan ETFs
 
 ETF tracker with real-time TWSE data for Taiwan stock exchange-traded funds.
