@@ -36,7 +36,6 @@ The app combines embedded static ETF metadata (names, types, issuers) with live 
 
 ### Navigation Header
 - Language toggle button (EN/中文)
-- Links to other apps (YouBike, Weather, Stock)
 - Active state highlighting
 
 ### Filter Bar
