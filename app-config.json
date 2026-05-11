@@ -1,7 +1,7 @@
 {
   "appId": "etf",
   "appName": "uetf  Monitor",
-  "apiBase": "https://api.transport-pwa.com/etf",
+  "apiBase": "https://app.octileapp.workers.dev",
   "siteBase": "https://etf.transport-pwa.com/",
   "workerUrl": "https://api.octile.eu.cc",
   "eventsUrl": "https://api.octile.eu.cc/events",
